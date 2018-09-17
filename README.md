@@ -9,3 +9,4 @@ This repository include subjects in CSS3
 * Introduction
 * AddCSS
 * Selectors&Properties&Values (PNG file)
+* Selectors- id & class
