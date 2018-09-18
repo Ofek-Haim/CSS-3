@@ -12,3 +12,4 @@ This repository include subjects in CSS3
 * Selectors- id & class
 * Contextual
 * Sub-elements
+* Style attribute values
