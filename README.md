@@ -14,3 +14,4 @@ This repository include subjects in CSS3
 * Sub-elements
 * Style attribute values
 * Fonts
+* Colors and backgrounds
