@@ -16,3 +16,4 @@ This repository include subjects in CSS3
 * Fonts
 * Colors and backgrounds
 * Text attributes
+* Limits
