@@ -18,3 +18,6 @@ This repository include subjects in CSS3
 * Text attributes
 * Limits
 * Additional characteristics
+
+## Appendices
+* Chat template
